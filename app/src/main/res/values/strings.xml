@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DbappforTest</string>
+
+    <!-- Menu  -->
+    <string name="home">Home</string>
+    <string name="add"> Add Item</string>
+    <string name="show"> Show Item</string>
+    <string name="del"> Delete</string>
+    <string name="edit">Edit</string>
+    <string name="exit">Exit</string>
+</resources>
